@@ -8,6 +8,7 @@ def reverse(string):
 name = input("Enter your desired string:\n")
 
 # Taking a number as an input from the user.
+number = input("Enter your desired number:\n")
 
 # Using print statement to display the original string.
 print("The original string  is: ", end="")
