@@ -4,9 +4,10 @@ def reverse(string):
     return string
 
 
-# Taking string as a input from the user:
+# Taking an string as an input from the user.
 name = input("Enter your desired string:\n")
-a = "86"
+
+# Taking a number as an input from the user.
 
 # Using print statement to display the original string.
 print("The original string  is: ", end="")
