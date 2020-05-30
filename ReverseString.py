@@ -4,7 +4,7 @@ def reverse(string):
     return string
 
 
-# Declaring varialbes.
+# Declaring and Initializing .
 s = "Shahzain Ahmed"
 a = "86"
 
