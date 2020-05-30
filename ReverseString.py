@@ -8,7 +8,7 @@ def reverse(string):
 s = "Shahzain Ahmed"
 a = "86"
 
-
+# Using print statement to display 
 print("The original string  is: ", end="")
 print(s)
 
