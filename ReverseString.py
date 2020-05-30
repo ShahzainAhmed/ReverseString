@@ -1,4 +1,4 @@
-# Function to reverse a string 
+# Creating a function to reverse a string 
 def reverse(string):
     string = "".join(reversed(string))
     return string
