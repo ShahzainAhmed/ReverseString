@@ -4,11 +4,11 @@ def reverse(string):
     return string
 
 
-# Declaring and Initializing variables.
+# Taking string and number as inputs from the user:
 s = "Shahzain Ahmed"
 a = "86"
 
-# Using print statement to display 
+# Using print statement to display the original string.
 print("The original string  is: ", end="")
 print(s)
 
