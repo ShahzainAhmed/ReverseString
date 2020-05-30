@@ -13,3 +13,7 @@ number = input("Enter your desired number:\n")
 # Using print statement to display the original & reversed string.
 print("The original string is: ", name)
 print("The reversed string is: ", reverse(name))
+
+# Using print statement to display the original & reversed number.
+print("The original number is", number)
+print ("The reversed number is: ", reverse(number))
