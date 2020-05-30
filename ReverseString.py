@@ -4,9 +4,10 @@ def reverse(string):
     return string
 
 
-# Declaring and Initializing .
+# Declaring and Initializing variables.
 s = "Shahzain Ahmed"
 a = "86"
+
 
 print("The original string  is: ", end="")
 print(s)
