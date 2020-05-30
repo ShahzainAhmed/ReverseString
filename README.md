@@ -7,7 +7,3 @@
 ### In this program, we can also reverse numbers, by putting them in to a String.
 - For example: The string is "18CS86"
 - Output will be: 68SC81
-
-
-s
-a
