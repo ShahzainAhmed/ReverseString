@@ -3,7 +3,6 @@ def reverse(string):
     string = "".join(reversed(string))
     return string
 
-
 # Taking an string as an input from the user.
 name = input("Enter your desired string:\n")
 
