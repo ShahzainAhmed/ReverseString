@@ -5,7 +5,7 @@ def reverse(string):
 
 
 # Taking string and number as inputs from the user:
-s = "Shahzain Ahmed"
+name = input("Enter your desired string:\n")
 a = "86"
 
 # Using print statement to display the original string.
